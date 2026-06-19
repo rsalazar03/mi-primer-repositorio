@@ -13,6 +13,6 @@ Se le llama "ligero" en comparación con lenguajes de marcado más complejos y r
 Markdown es el estándar de facto en la industria del software para la documentación técnica gracias a su compatibilidad con sistemas de control de versiones como Git. Se utiliza principalmente en: 
 Archivos README: El archivo de presentación obligatorio en repositorios de GitHub, GitLab o Bitbucket para explicar de qué trata un proyecto y cómo instalarlo. 
 
-* Documentación de APIs y código: Plataformas como Read the Docs, Swagger, o generadores de sitios estáticos (Docusaurus, Hugo) se alimentan de Markdown. 
-* Plataformas de colaboración: En los comentarios de Jira, issues de GitHub, mensajes de Slack or Microsoft Teams para dar formato al texto o compartir fragmentos de código. 
-* Plataformas de blogging técnico: Sitios como Dev.to, Hashnode y Medium lo soportan de forma nativa. 
+* __Documentación de APIs y código__: Plataformas como Read the Docs, Swagger, o generadores de sitios estáticos (Docusaurus, Hugo) se alimentan de Markdown. 
+* __Plataformas de colaboración__: En los comentarios de Jira, issues de GitHub, mensajes de Slack or Microsoft Teams para dar formato al texto o compartir fragmentos de código. 
+* __Plataformas de blogging técnico__: Sitios como Dev.to, Hashnode y Medium lo soportan de forma nativa. 
