@@ -11,3 +11,8 @@ Repositorio de práctica
 2. lista 6
 
 [link](https://markdown.es/)
+~~~
+bloque de codigo
+~~~
+
+linea en blanco ---
