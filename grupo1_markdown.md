@@ -28,6 +28,9 @@ Se crean utilizando el símbolo de almohadilla (#). El número de almohadillas i
 ### Negrita, cursiva y texto combinado 
 
 Para dar estilo al texto, utilizas asteriscos (*) o guiones bajos (_). 
+_Un (*) para cursiva_
+__Dos (*) para negrita__
+___Tres (*) para texto combinado___
 
 ### Listas ordenadas y no ordenadas 
 
