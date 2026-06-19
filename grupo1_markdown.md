@@ -8,4 +8,4 @@ A diferencia de los procesadores de texto tradicionales (como Microsoft Word), d
 Se le llama "ligero" en comparación con lenguajes de marcado más complejos y robustos como HTML o XML. 
 * __Sintaxis minimalista__: Utiliza caracteres comunes del teclado que no ensucian la lectura del documento original. Un archivo .md es perfectamente legible para un humano incluso si no está renderizado.
 * __Curva de aprendizaje baja__: Se puede aprender en menos de 10 minutos.
-* __Sin etiquetas de cierre complejas__: En lugar de escribir <h1>Título</h1> (HTML), solo escribes\ # Título. 
+* __Sin etiquetas de cierre complejas__: En lugar de escribir \ <h1>Título</h1> (HTML), solo escribes # Título. 
