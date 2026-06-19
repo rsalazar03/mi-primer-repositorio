@@ -15,7 +15,7 @@ Repositorio de práctica
 bloque de codigo
 ~~~
 ---
-recta
+
 ---
 ___
 recta
