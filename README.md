@@ -17,4 +17,9 @@ bloque de codigo
 ---
 recta
 ---
-
+___
+recta
+___
+***
+recta
+***
