@@ -14,5 +14,7 @@ Repositorio de práctica
 ~~~
 bloque de codigo
 ~~~
+---
+recta
+---
 
-linea en blanco ---
