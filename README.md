@@ -2,7 +2,7 @@
 Repositorio de práctica
 # Titulo 1
 ## Titulo 2
-**Cursiva**
+**negrita**
 * lista
 * lista 2
 + lista 3
@@ -14,12 +14,11 @@ Repositorio de práctica
 ~~~
 bloque de codigo
 ~~~
----
 
----
 ___
 recta
 ___
-***
-recta
-***
+_cursiva_
+**negrita**
+***negrita y cursiva***
+
