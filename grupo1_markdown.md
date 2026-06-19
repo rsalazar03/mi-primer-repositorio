@@ -22,9 +22,8 @@ Se crean utilizando el símbolo de almohadilla (#). El número de almohadillas i
 
 ### Párrafos y saltos de línea 
 
-__Párrafos__: Se crean simplemente escribiendo texto normal. Para separar un párrafo de otro, debes dejar una línea en blanco. 
-
-__Saltos de línea__: Si quieres dar un salto de línea simple (sin crear un nuevo párrafo), debes dejar dos espacios en blanco al final de la línea y presionar Enter. 
+* __Párrafos__: Se crean simplemente escribiendo texto normal. Para separar un párrafo de otro, debes dejar una línea en blanco. 
+* __Saltos de línea__: Si quieres dar un salto de línea simple (sin crear un nuevo párrafo), debes dejar dos espacios en blanco al final de la línea y presionar Enter. 
 
 ### Negrita, cursiva y texto combinado 
 
@@ -32,6 +31,5 @@ Para dar estilo al texto, utilizas asteriscos (*) o guiones bajos (_).
 
 ### Listas ordenadas y no ordenadas 
 
-__Listas no ordenadas (con viñetas)__: Puedes usar asteriscos (*), guiones (-) o signos de más (+). 
-
-__Listas ordenadas (numeradas)__: Se utilizan números seguidos de un punto. Curiosamente, Markdown indexa automáticamente, por lo que puedes usar el número 1. para todos los elementos si lo deseas. 
++ __Listas no ordenadas (con viñetas)__: Puedes usar asteriscos (*), guiones (-) o signos de más (+). 
++ __Listas ordenadas (numeradas)__: Se utilizan números seguidos de un punto. Curiosamente, Markdown indexa automáticamente, por lo que puedes usar el número 1. para todos los elementos si lo deseas. 
